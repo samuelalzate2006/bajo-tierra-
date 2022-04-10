@@ -1,0 +1,25 @@
+body{
+background-image: url(img/nacional.png);
+
+}
+
+
+
+
+p {
+    font-size: 22px;
+    font-family: 'Roboto Mono', monospace;
+    color: #0a0a0a;
+}
+
+.parrafo{
+    font-size: 27px;
+    font-family: 'Roboto Mono', monospace;
+    color: #000000;
+}
+
+.enfasis{
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+    color: #b63636;
+}
